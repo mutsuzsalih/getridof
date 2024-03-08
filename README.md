@@ -1,18 +1,18 @@
 # getridof
 # GETRIDOF
 
-Getridof, kullanıcıların artık ihtiyaç duymadıkları eşyalarını satmak veya başkalarının ihtiyaç duydukları eşyaları bulmak için bir platform sağlayan bir çevrimiçi 2. el eşya satış ve alışveriş platformudur. Platformun amacı, kullanıcıların kolayca ve güvenle ikinci el eşyalarını alışveriş yapmalarını ve satmalarını sağlamaktır.
+Getridof, kullanıcıların artık ihtiyaç duymadıkları eşyalarını satmak veya ihtiyaç duydukları eşyaları bulmak için bir platform sağlayan bir çevrimiçi 2. el eşya satış ve alışveriş platformudur. Platformun amacı, kullanıcıların kolayca ve güvenle ikinci el eşyalarını alışveriş yapmalarını ve satmalarını sağlamaktır.
 
 Kategori: E-Ticaret
 
-Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](dolap.com)
+Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](https://www.dolap.com)
 
 Uygulama Adresi: getridof.com
 
 Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
 
-1. [Proje Planı](Proje-Planı)
+1. [Proje Planı](#projeplani)
 2. [Gereksinim Analizi](Gereksinim-Analizi)
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
@@ -22,10 +22,10 @@ Proje Ekibi: Salih SANSARCI
 8. [Test](Test)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları)
 
-[PROJE PLANI](Proje-Planı)
+# PROJE PLANI
 ![Simple Software Development Plan (1)](https://github.com/mutsuzsalih/getridof/assets/162748398/5f2ac464-0d92-4817-8589-8dd5ddf27700)
 
-[GEREKSİNİMLER](Gereksinim-Analizi)
+# GEREKSİNİMLER
 
 1. E-POSTA İLE ÜYE OLMA
 2. ÜYELİK SİLME
