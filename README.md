@@ -27,7 +27,7 @@ Proje Ekibi: Salih SANSARCI
 
 [GEREKSİNİMLER](Gereksinim-Analizi)
 
-1. E-POSTA İLE SATICI - MÜŞTERİ OLARAK ÜYE OLMA
+1. E-POSTA İLE ÜYE OLMA
 2. ÜYELİK SİLME
 3. GİRİŞ YAP
 4. ÇIKIŞ YAP
