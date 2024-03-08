@@ -5,7 +5,7 @@ Getridof, kullanıcıların artık ihtiyaç duymadıkları eşyalarını satmak 
 
 Kategori: E-Ticaret
 
-Referans Uygulama: [letgo.com](letgo.com) [dolap.com](dolap.com)
+Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](dolap.com)
 
 Uygulama Adresi: getridof.com
 
