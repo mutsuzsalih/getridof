@@ -13,7 +13,7 @@ Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
 
 1. [Proje Planı](#proje-planı)
-2. [Gereksinim Analizi](Gereksinim-Analizi)
+2. [Gereksinim Analizi](#gereksinimler)
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
 5. [Veritabanı Diyagramı](Veritabanı-Diyagramı)
