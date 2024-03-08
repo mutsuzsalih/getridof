@@ -12,7 +12,7 @@ Uygulama Adresi: getridof.com
 Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
 
-1. [Proje Planı](#projeplani)
+1. [Proje Planı](#proje-plani)
 2. [Gereksinim Analizi](Gereksinim-Analizi)
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
@@ -22,7 +22,7 @@ Proje Ekibi: Salih SANSARCI
 8. [Test](Test)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları)
 
-# projeplani
+# Proje Planı
 ![Simple Software Development Plan (1)](https://github.com/mutsuzsalih/getridof/assets/162748398/5f2ac464-0d92-4817-8589-8dd5ddf27700)
 
 # GEREKSİNİMLER
