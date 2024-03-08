@@ -12,7 +12,7 @@ Uygulama Adresi: getridof.com
 Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
 
-1. [Proje Planı](#proje-plani)
+1. [Proje Planı](#proje-planı)
 2. [Gereksinim Analizi](Gereksinim-Analizi)
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
