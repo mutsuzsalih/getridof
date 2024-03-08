@@ -21,3 +21,11 @@ Proje Ekibi: Salih SANSARCI
 7. [Back-End](Back-End)
 8. [Test](Test)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları)
+
+
+
+
+
+
+
+![Simple Software Development Plan](https://github.com/mutsuzsalih/getridof/assets/162748398/ce52f621-4e4a-4f0f-a39e-d0cb6188b436)
