@@ -25,7 +25,7 @@ Proje Ekibi: Salih SANSARCI
 # Proje Planı
 ![Simple Software Development Plan (1)](https://github.com/mutsuzsalih/getridof/assets/162748398/5f2ac464-0d92-4817-8589-8dd5ddf27700)
 
-# GEREKSINIMLER
+# Gereksinimler
 
 1. E-POSTA İLE ÜYE OLMA
 2. ÜYELİK SİLME
