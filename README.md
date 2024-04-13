@@ -39,3 +39,16 @@ Proje Ekibi: Salih SANSARCI
 10. ÜRÜN İLANI OLUŞTUR
 11. ÜRÜN İLANLARINI GÖRÜNTÜLE
 12. ÜRÜN İLANINI DÜZENLE
+
+
+
+
+
+
+
+![drawSQL-image-export-2024-04-13 (2)](https://github.com/mutsuzsalih/getridof/assets/162748398/4cd9ab5e-6ad6-489c-ac96-8bea31a86102)
+
+
+
+
+
