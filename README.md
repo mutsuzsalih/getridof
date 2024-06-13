@@ -45,5 +45,18 @@ Proje Ekibi: Salih SANSARCI
 ![drawSQL-image-export-2024-04-13 (3)](https://github.com/mutsuzsalih/getridof/assets/162748398/725d9543-4ad2-429d-8e18-a960e0db4fec)
 
 
+# Front-End
+
+
+# Back-End
+
+
+# Test
+
+# Geliştirici ve Kullanıcı Dokümantasyonları
+
+
+
+
 
 
