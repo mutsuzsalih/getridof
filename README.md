@@ -47,11 +47,49 @@ Proje Ekibi: Salih SANSARCI
 
 # Front-End
 
+NextJS çatısı kullanıldı.
+
+# Salih Sansarcı Tasarımlar #
+
+1. ÜYE OLMA
+2. ÜYELİK SİLME
+3. GİRİŞ YAP
+4. ÇIKIŞ YAP
+5. ŞİFRE YENİLEME
+6. ŞİFREMİ UNUTTUM
+7. ÜRÜN İLANINI KALDIR
+8. PROFİLİMİ GÖRÜNTÜLE
+9. ARAMA ÇUBUĞU
+10. ÜRÜN İLANI OLUŞTUR
+11. ÜRÜN İLANLARINI GÖRÜNTÜLE
+12. ÜRÜN İLANINI DÜZENLE
+
 
 # Back-End
 
+Docker: Kullanılmadı
+
+Test API: Kullanılmadı
+
+# Salih Sansarcı Kodlama #
+
+1. ÜYE OLMA
+2. ÜYELİK SİLME
+3. GİRİŞ YAP
+4. ÇIKIŞ YAP
+5. ŞİFRE YENİLEME
+6. ŞİFREMİ UNUTTUM
+7. ÜRÜN İLANINI KALDIR
+8. PROFİLİMİ GÖRÜNTÜLE
+9. ARAMA ÇUBUĞU
+10. ÜRÜN İLANI OLUŞTUR
+11. ÜRÜN İLANLARINI GÖRÜNTÜLE
+12. ÜRÜN İLANINI DÜZENLE
 
 # Test
+
+# Salih Sansarcı Test #
+
 
 # Geliştirici ve Kullanıcı Dokümantasyonları
 
