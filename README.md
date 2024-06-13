@@ -17,10 +17,10 @@ Proje Ekibi: Salih SANSARCI
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
 5. [Veritabanı Diyagramı](Veritabanı-Diyagramı)
-6. [Front-End](Front-End)
-7. [Back-End](Back-End)
-8. [Test](Test)
-9. [Geliştirici ve Kullanıcı Dokümantasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları)
+6. [Front-End](#Front-End)
+7. [Back-End](#Back-End)
+8. [Test](#Test)
+9. [Geliştirici ve Kullanıcı Dokümantasyonları](#Geliştirici-ve-Kullanıcı-Dokümantasyonları)
 
 # Proje Planı
 ![Simple Software Development Plan (1)](https://github.com/mutsuzsalih/getridof/assets/162748398/5f2ac464-0d92-4817-8589-8dd5ddf27700)
