@@ -1,0 +1,42 @@
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider  = "postgresql"
+    url       = env("POSTGRES_PRISMA_URL") // uses connection pooling
+    directUrl = env("POSTGRES_URL_NON_POOLING") // uses a direct connection
+}
+
+model User {
+    id       String    @id @default(uuid())
+    email    String    @unique
+    name     String
+    password String
+    Product  Product[]
+    Order    Order[]
+}
+
+model Product {
+    id          String   @id @default(uuid())
+    name        String
+    description String
+    price       Float
+    seller      User     @relation(fields: [sellerId], references: [id])
+    sellerId    String
+    sold        Boolean  @default(false)
+    order       Order?
+    image       String  @default("https://utfs.io/f/def37ce0-12e0-4850-ae27-95e88c6fe44b-9w6i5v.png")
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
+}
+
+model Order {
+    id        String   @id @default(uuid())
+    productId String   @unique
+    product   Product  @relation(fields: [productId], references: [id])
+    buyer     User     @relation(fields: [buyerId], references: [id])
+    buyerId   String
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+}
