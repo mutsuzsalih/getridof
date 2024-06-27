@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+=======
+# getridof
+# GETRIDOF
 
-First, run the development server:
+Getridof, kullanıcıların artık ihtiyaç duymadıkları eşyalarını satmak veya ihtiyaç duydukları eşyaları bulmak için bir platform sağlayan bir çevrimiçi 2. el eşya satış ve alışveriş platformudur. Platformun amacı, kullanıcıların kolayca ve güvenle ikinci el eşyalarını alışveriş yapmalarını ve satmalarını sağlamaktır.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Kategori: E-Ticaret
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](https://www.dolap.com)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Uygulama Adresi: getridof.com
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Grup Adı: SOLO
+Proje Ekibi: Salih SANSARCI
 
-## Learn More
+1. [Proje Planı](#proje-planı)
+2. [Gereksinim Analizi](#gereksinimler)
+3. [Durum Diyagramı](Durum-Diyagramı)
+4. [Durum Senaryoları](Durum-Senaryoları)
+5. [Veritabanı Diyagramı](Veritabanı-Diyagramı)
+6. [Front-End](#Front-End)
+7. [Back-End](#Back-End)
+8. [Test](#Test)
+9. [Geliştirici ve Kullanıcı Dokümantasyonları](#Geliştirici-ve-Kullanıcı-Dokümantasyonları)
 
-To learn more about Next.js, take a look at the following resources:
+# Proje Planı
+![Simple Software Development Plan (1)](https://github.com/mutsuzsalih/getridof/assets/162748398/5f2ac464-0d92-4817-8589-8dd5ddf27700)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Gereksinimler
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. ÜYE OLMA
+2. ÜYELİK SİLME
+3. GİRİŞ YAP
+4. ÇIKIŞ YAP
+5. ŞİFRE YENİLEME
+6. ÜRÜN İLANINI KALDIR
+7. PROFİLİMİ GÖRÜNTÜLE
+8. ARAMA ÇUBUĞU
+9. ÜRÜN İLANI OLUŞTUR
+10. ÜRÜN İLANLARINI GÖRÜNTÜLE
+11. ÜRÜN İLANINI DÜZENLE
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Veritabanı Diyagramı
+![drawSQL-image-export-2024-04-13 (3)](https://github.com/mutsuzsalih/getridof/assets/162748398/725d9543-4ad2-429d-8e18-a960e0db4fec)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Front-End
+
+NextJS çatısı kullanıldı.
+
+# Salih Sansarcı Tasarımlar #
+
+1. ÜYE OLMA
+2. ÜYELİK SİLME
+3. GİRİŞ YAP
+4. ÇIKIŞ YAP
+5. ŞİFRE YENİLEME
+6. ÜRÜN İLANINI KALDIR
+7. PROFİLİMİ GÖRÜNTÜLE
+8. ARAMA ÇUBUĞU
+9. ÜRÜN İLANI OLUŞTUR
+10. ÜRÜN İLANLARINI GÖRÜNTÜLE
+11. ÜRÜN İLANINI DÜZENLE
+
+
+# Back-End
+
+Docker: Kullanılmadı
+
+Test API: Kullanılmadı
+
+# Salih Sansarcı Kodlama #
+
+1. ÜYE OLMA
+2. ÜYELİK SİLME
+3. GİRİŞ YAP
+4. ÇIKIŞ YAP
+5. ŞİFRE YENİLEME
+6. ÜRÜN İLANINI KALDIR
+7. PROFİLİMİ GÖRÜNTÜLE
+8. ARAMA ÇUBUĞU
+9. ÜRÜN İLANI OLUŞTUR
+10. ÜRÜN İLANLARINI GÖRÜNTÜLE
+11. ÜRÜN İLANINI DÜZENLE
+
+# Test
+
+# Salih Sansarcı Test #
+
+
+# Geliştirici ve Kullanıcı Dokümantasyonları
+
+
+
+
+
+
+>>>>>>> origin/main
