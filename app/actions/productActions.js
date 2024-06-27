@@ -2,6 +2,7 @@
 import { auth } from "@/auth";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
+import { prisma } from "@/client";
 
 export async function createProduct(imageUrl, prev, formData) {
   const name = formData.get("name");
