@@ -99,5 +99,5 @@ Hocam test yapmayı denedim fakat beceremedim.
 
 # Geliştirici ve Kullanıcı Dokümantasyonları
 
-[SALİH SANSARCI GELİŞTİRİCİ DÖKÜMANI](https://salih-sansarci.gitbook.io/getridof-salih-sansarci/)
+#[SALİH SANSARCI GELİŞTİRİCİ DÖKÜMANI](https://salih-sansarci.gitbook.io/getridof-salih-sansarci/)
 
