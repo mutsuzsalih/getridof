@@ -9,7 +9,7 @@ Kategori: E-Ticaret
 
 Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](https://www.dolap.com)
 
-Uygulama Adresi: getridof.vercel.app
+Uygulama Adresi: [getridof.vercel.app](https://getridof.vercel.app)
 
 Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
@@ -48,7 +48,7 @@ Proje Ekibi: Salih SANSARCI
 
 # Front-End
 
-getridof.vercel.app
+[getridof.vercel.app](https://getridof.vercel.app)
 
 NextJS çatısı kullanıldı.
 
@@ -94,7 +94,7 @@ REST API: Kullanılmadı
 
 # Geliştirici ve Kullanıcı Dokümantasyonları
 
-[https://app.gitbook.com/o/zCA4NizXquFVp1EDL2yE/s/PAcEobbQfXce8YunQBXI/salih-sansarci/gelistirici-dokumani](https://salih-sansarci.gitbook.io/getridof-salih-sansarci/)
+[SALİH SANSARCI GELİŞTİRİCİ DÖKÜMANI](https://salih-sansarci.gitbook.io/getridof-salih-sansarci/)
 
 
 
