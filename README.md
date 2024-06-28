@@ -96,7 +96,3 @@ REST API: Kullanılmadı
 
 [SALİH SANSARCI GELİŞTİRİCİ DÖKÜMANI](https://salih-sansarci.gitbook.io/getridof-salih-sansarci/)
 
-
-
-
->>>>>>> origin/main
