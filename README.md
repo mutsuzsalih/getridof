@@ -48,6 +48,8 @@ Proje Ekibi: Salih SANSARCI
 
 # Front-End
 
+getridof.vercel.app
+
 NextJS çatısı kullanıldı.
 
 # Salih Sansarcı Tasarımlar #
@@ -69,7 +71,7 @@ NextJS çatısı kullanıldı.
 
 Docker: Kullanılmadı
 
-Test API: Kullanılmadı
+REST API: Kullanılmadı
 
 # Salih Sansarcı Kodlama #
 
