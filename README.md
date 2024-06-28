@@ -9,7 +9,7 @@ Kategori: E-Ticaret
 
 Referans Uygulama: [letgo.com](https://www.letgo.com) [dolap.com](https://www.dolap.com)
 
-Uygulama Adresi: getridof.com
+Uygulama Adresi: getridof.vercel.app
 
 Grup Adı: SOLO
 Proje Ekibi: Salih SANSARCI
