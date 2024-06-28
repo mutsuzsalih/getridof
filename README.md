@@ -91,7 +91,10 @@ Salih Sansarcı Kodlama
 
 # Test
 Salih Sansarcı Test #
+
 ![test](https://github.com/mutsuzsalih/getridof/assets/162748398/c4ba1499-805d-4659-9533-8236e7cd3a13)
+
+
 Hocam test yapmayı denedim fakat beceremedim.
 
 # Geliştirici ve Kullanıcı Dokümantasyonları
