@@ -45,7 +45,13 @@ export default async function Home({ searchParams }) {
 
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-20 ">
           {products
-            ?.filter((product) => !user || product.seller !== user.id)
+            ?.filter((product) => {
+              if (!user) {
+                return true;
+              }
+              return product.sellerId !== user.id;
+
+            })
             .map((product) => (
               <div
                 key={product.id}
